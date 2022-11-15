@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>wth it was another words</h1>'
